@@ -11,16 +11,18 @@
   </a>
   <br/>
   <img alt="Github Download" src="https://img.shields.io/github/downloads/JINN1368/NRO_V2/total.svg?style=for-the-badge&color="green" />
-  <img alt="Build Version" src="https://img.shields.io/badge/NRO VERSION-2.3.0-red?style=for-the-badge"/>
+  <img alt="Build Version" src="https://img.shields.io/badge/NRO VERSION-2.3.1-red?style=for-the-badge"/>
   <img alt="Github Releases" src="https://img.shields.io/github/release/JINN1368/NRO_V2.svg?style=for-the-badge"/>
   <br/>
   <a href="  https://www.buymeacoffee.com/KnD1368" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 40px;" ></a>
 </div>
 <details>
-  <summary>CHI TIẾT CẬP NHẬT 2.3.O</summary>
+  <summary>CHI TIẾT CẬP NHẬT 2.3.1</summary>
   
 * CẬP NHẬT TOÀN BỘ DỮ LIỆU
 * RA MẮT MENU PREMIUM
+* SỬA LỖI MENU FREE
+* TỐI ƯU CODE GIÚP MỞ MENU NHANH HƠN
 </details>
 
 # ỦNG HỘ MỀNH
