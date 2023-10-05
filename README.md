@@ -62,9 +62,9 @@
 ### TRƯỚC KHI BẮT ĐẦU HÃY TẢI XUỐNG VÀ CÀI ĐẶT CÁC PHẦN MỀM DƯỚI ĐÂY
 - [TẢI XUỐNG KSWEB](https://web1s.co/nmKUY4kBF6)
 - [TẢI XUỐNG TERMUX (ỔN ĐỊNH)](https://web1s.co/jnEQe3Npab)
-- [TẢI XUỐNG TỆP SQL (HOẠT ĐỘNG ỔN TRÊN ANDROID 7 - 12)](https://web1s.co/R3uLCguEdD)
-- [TẢI XUỐNG TỆP SQL (DÀNH RIÊNG CHO ANDROID 12)](https://web1s.co/R3uLCguEdD)
-- [TẢI XUỐNG TỆP APK](https://web1s.co/NBhiTXNenk)
+- [TẢI XUỐNG TỆP SQL (HOẠT ĐỘNG ỔN TRÊN ANDROID 7 - 12)](https://web1s.co/6HdiZs6c2P)
+- [TẢI XUỐNG TỆP SQL (DÀNH RIÊNG CHO ANDROID 12)](https://web1s.co/NBhiTXNenk)
+- [TẢI XUỐNG TỆP APK](https://github.com/JINN1368/NRO_V2/releases/download/NRO_V2/JINN1368.apk)
 ### BƯỚC 1 ( CẤP QUYỀN TRUY CẬP BỘ NHỚ VÀ CẬP NHẬT TERMUX )
 ```
 termux-setup-storage
