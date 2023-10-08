@@ -89,8 +89,8 @@ git clone https://github.com/JINN1368/NRO_V2 && cd NRO_V2 && mv jinn1368.sh ~/..
 jinn1368.sh
 ```
 # SETUP
-- [KSWEB](https://youtube.com/shorts/mp9ofZ96qFE?si=USCxyheHRxFyQ-Af)
-- [SQL](https://youtube.com/shorts/e4BnPUa0U_g?si=-2tXaJY_6bRC7joX)
+- [SQL](https://youtube.com/shorts/mp9ofZ96qFE?si=USCxyheHRxFyQ-Af)
+- [KSWEB](https://youtube.com/shorts/e4BnPUa0U_g?si=-2tXaJY_6bRC7joX)
 # LỆNH CHAT
 > admin : MỞ MENU ADMIN
 >
