@@ -25,8 +25,6 @@
 * TỐI ƯU CODE GIÚP MỞ MENU NHANH HƠN
 </details>
 
-# DỊCH VỤ BÊN THỨ 3 ĐANG GẶP LỖI CÁC LIÊN KẾT HIỆN TẠM DỪNG HOẠT ĐỘNG 
-
 # ỦNG HỘ MỀNH
 - MOMO: 0853035354
 - MBBANK: 0853035354
@@ -58,6 +56,8 @@
 > VƯỢT 3 LINKS ( 3 - 4 PHÚT)
 >
 > KEY SẼ ĐƯỢC CẬP NHẬT SAU 3 - 7 NGÀY
+>
+> ĐỂ TRÁNH LỖI KHI TÌM TỪ KHOÁ HÃY TRUY CẬP GOOGLE.COM.VN ĐỂ TÌM
 - [KEY CHẠY SERVER](https://web1s.co/wQK0yBl6rJ)
 - [KEY TẢI DỮ LIỆU](https://web1s.co/yfuzSkbv5N)
 # HƯỚNG DẪN CÀI ĐẶT NRO TERMUX V2.3.0
@@ -88,6 +88,9 @@ git clone https://github.com/JINN1368/NRO_V2 && cd NRO_V2 && mv jinn1368.sh ~/..
 ```
 jinn1368.sh
 ```
+# SETUP
+- [KSWEB](https://youtube.com/shorts/mp9ofZ96qFE?si=USCxyheHRxFyQ-Af)
+- [SQL](https://youtube.com/shorts/e4BnPUa0U_g?si=-2tXaJY_6bRC7joX)
 # LỆNH CHAT
 > admin : MỞ MENU ADMIN
 >
