@@ -28,12 +28,26 @@
 
 # HƯỚNG DẪN CÀI ĐẶT
 > SAU KHI MUA CÂU LỆNH MỚI CÓ THỂ SỬ DỤNG
-### COPY ĐOẠN MÃ SAU
-### MÃ 1
+### HOÀN THÀNH CÁC BƯỚC SAU
+### BUỚC 1:
+```
+termux-setup-storage
+```
+```
+apt update && apt upgrade -y
+```
+### BƯỚC 2
+```
+pkg i python -y python-pip -y openjdk-17 -y git -y && pip install requests wget
+```
+### BƯỚC 3
 ```
 git clone https://github.com/JINN1368/NRO_V2 && cd NRO_V2 && mv jinn1368.sh ~/../usr/bin/ && chmod +x ~/../usr/bin/jinn1368.sh && cd
 ```
-### MÃ 2
+### BƯỚC 4
 ```
 mv /storage/emulated/0/Download/*.PREMIUM.zip NRO_V2 && rm -rf NRO_V2/main.py && unzip -qq -o NRO_V2/*.zip -d NRO_V2  && rm -rf NRO_V2/*.zip && clear &&  echo CÀI ĐẶT HOÀN TẤT
 ```
+# SETUP
+- [KSWEB](https://youtube.com/shorts/e4BnPUa0U_g?si=-2tXaJY_6bRC7joX)
+- [SQL](https://youtube.com/shorts/mp9ofZ96qFE?si=USCxyheHRxFyQ-Af)
