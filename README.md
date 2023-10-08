@@ -25,6 +25,8 @@
 * TỐI ƯU CODE GIÚP MỞ MENU NHANH HƠN
 </details>
 
+# DỊCH VỤ BÊN THỨ 3 ĐANG GẶP LỖI CÁC LIÊN KẾT HIỆN TẠM DỪNG HOẠT ĐỘNG 
+
 # ỦNG HỘ MỀNH
 - MOMO: 0853035354
 - MBBANK: 0853035354
