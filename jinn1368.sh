@@ -1,2 +1,3 @@
 cd 
-python NRO_V2/main.py
+cd NRO_V2
+python main.py
