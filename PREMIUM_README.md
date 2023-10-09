@@ -46,7 +46,7 @@ git clone https://github.com/JINN1368/NRO_V2 && cd NRO_V2 && mv jinn1368.sh ~/..
 ```
 ### BƯỚC 4
 ```
-mv /storage/emulated/0/Download/*.PREMIUM.zip NRO_V2 && rm -rf NRO_V2/main.py && unzip -qq -o NRO_V2/*.zip -d NRO_V2  && rm -rf NRO_V2/*.zip && clear &&  echo CÀI ĐẶT HOÀN TẤT
+mv /storage/emulated/0/Download/*.PREMIUM.zip NRO_V2 && unzip -qq -o NRO_V2/*.zip  && rm -rf NRO_V2/*.PREMIUM.zip && clear &&  echo CÀI ĐẶT HOÀN TẤT
 ```
 # SETUP
 - [KSWEB](https://youtube.com/shorts/e4BnPUa0U_g?si=-2tXaJY_6bRC7joX)
