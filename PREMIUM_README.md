@@ -38,7 +38,7 @@ apt update && apt upgrade -y
 ```
 ### BƯỚC 2
 ```
-pkg i python -y python-pip -y openjdk-17 -y git -y && pip install requests wget
+pkg i python -y python-pip -y openjdk-17 -y git -y && pip install requests wget mysql-connector-python
 ```
 ### BƯỚC 3
 ```
