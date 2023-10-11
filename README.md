@@ -35,7 +35,7 @@
 - ## ZALO: 0853035354
 # [MENU PREMIUM](https://github.com/JINN1368/NRO_V2/blob/main/PREMIUM_README.md)
 ### 10.000VNĐ ĐỂ CÓ THÊM CÁC CHỨC NĂNG ( MOMO + MBBANK )
-### 20.000VNĐ ĐỐI VỚI TSR
+### 20.000VNĐ ĐỐI VỚI CARD
 <details>
   <summary>CHI TIẾT</summary>
 
