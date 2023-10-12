@@ -100,4 +100,6 @@ jinn1368.sh
 > up: TĂNG TNSM. VÍ DỤ: up1000(TĂNG 1K TNSM)
 >
 > upp: TĂNG TNSM CHO ĐỆ TỬ
+>
+> i_X. VÍ DỤ: i 5 ( BUFF NHANH ÁO GIÁP SẮT VÀO HÀNH TRANG )
 
