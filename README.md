@@ -25,6 +25,8 @@
 - SỬA LỖI BUFF ITEM KHÔNG CÓ CHỈ SỐ
 - TỐI ƯU DỮ LIỆU
 - TỐI ƯU CODE MENU
+- HIỆN KHU BOSS
+- GIẢM THỜI GIAN XUẤT HIỆN BOSS
 
 </details>
 
