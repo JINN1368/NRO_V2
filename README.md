@@ -28,6 +28,8 @@
 - TỐI ƯU CODE MENU
 - HIỆN KHU BOSS
 - GIẢM THỜI GIAN XUẤT HIỆN BOSS
+- THÊM NHIỀU THỨ MỚI....
+- PHIÊN BẢN ONLINE SẼ RA TRONG 1 ĐẾN 2 CẬP NHẬT NỮA
 
 </details>
 
