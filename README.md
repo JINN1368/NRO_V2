@@ -16,8 +16,20 @@
   <br/>
   <a href="  https://www.buymeacoffee.com/KnD1368" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 40px;" ></a>
 </div>
+
+<details><summary>CẬP NHẬT 2.3.2 SẮP TỚI</summary>
+  
+- THÊM CHỨC NĂNG MỚI CHO MENU PREMIUM
+- TĂNG GIỚI HẠN SỨC MẠNH LÊN 8.999.999.999.999.999.999 ( 8 tỷ tỷ )
+- KHÔNG GIỚI HẠN VÀNG ( TRƯỚC LÀ 2 TỶ )
+- SỬA LỖI BUFF ITEM KHÔNG CÓ CHỈ SỐ
+- TỐI ƯU DỮ LIỆU
+- TỐI ƯU CODE MENU
+
+</details>
+
 <details>
-  <summary>CHI TIẾT CẬP NHẬT 2.3.1</summary>
+  <summary>CẬP NHẬT 2.3.1</summary>
   
 * CẬP NHẬT TOÀN BỘ DỮ LIỆU
 * RA MẮT MENU PREMIUM
