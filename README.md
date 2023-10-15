@@ -17,7 +17,7 @@
   <a href="  https://www.buymeacoffee.com/KnD1368" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 40px;" ></a>
 </div>
 
-<details><summary>CẬP NHẬT 2.3.2 SẮP TỚI</summary>
+<details><summary>CẬP NHẬT 2.4.0 SẮP TỚI ( BIG UPDATE 2 ) </summary>
   
 - THÊM CHỨC NĂNG MỚI CHO MENU PREMIUM
 - TĂNG GIỚI HẠN SỨC MẠNH LÊN 8.999.999.999.999.999.999 ( 8 tỷ tỷ )
