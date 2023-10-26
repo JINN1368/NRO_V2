@@ -1,53 +1,89 @@
-# TRANG NÀY DÀNH CHO MENU PREMIUM
-> 10.000 VNĐ
-- THAO TÁC DỄ DÀNG, TIỆN LỢI
-- HỖ TRỢ
-  - THAO TÁC SQL
+<div align="center">
+  <a href="https://www.facebook.com/ki3tngu">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="height:40px;"/>
+  </a>
+   </a>
+   <a href="https://github.com/JINN1368">
+    <img alt="Facebook" src="https://img.shields.io/badge/Github-333333?style=for-the-badge&logo=github&logoColor=white" style="height:40px;"/>
+  </a>
+   <a href="https://www.youtube.com/channel/UCLmZUmjdiwKxMEcYdgJ6Rww?sub_confirmation=1">
+    <img alt="Facebook" src="https://img.shields.io/badge/Youtube-fc036f?style=for-the-badge&logo=youtube&logoColor=white" style="height:40px;"/>
+  </a>
+  <br/>
+  <img alt="Github Download" src="https://img.shields.io/github/downloads/JINN1368/NRO_V2/total.svg?style=for-the-badge&color="green" />
+  <img alt="Build Version" src="https://img.shields.io/badge/NRO VERSION-2.4.0-red?style=for-the-badge"/>
+  <img alt="Github Releases" src="https://img.shields.io/github/release/JINN1368/NRO_V2.svg?style=for-the-badge"/>
+  <br/>
+  <a href="  https://www.buymeacoffee.com/KnD1368" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 40px;" ></a>
+</div>
 
-    <details>
-    <summary>CHI TIẾT</summary>
+<span>
+    <div align = "center" >
+      <h1>MỞ ĐẦU</h1>
+      
+Trang này dành cho MENU PREMIUM. Chỉ với `10K ATM` HOẶC `20K CARD` bạn sẽ có MENU PREMIUM với các chức năng sau
+    </div>
     
-    - TĂNG GIẢM CHỈ SỐ
-    - NHẢY NHIỆM VỤ
-    - CẤP QUYỀN ADMIN
+- Buff chỉ số, tài nguyên
+- Quản lý tài khoản
+- Cài đặt thông số server
+- Và các chức năng mới được cập nhật thường xuyên
 
-    </details>
+Để cài đặt hãy làm theo hướng dẫn bên dưới.
 
-  - TUỲ CHỈNH THÔNG SỐ SERVER
+ <div align = "center" >
+      <h1>HƯỚNG DẪN CÀI ĐẶT</h1>
+  </div>
 
-    <details>
-    <summary>CHI TIẾT</summary>
-    
-    - CHỈNH KINH NGHIỆM KHI ĐÁNH QUÁI
-    - THỜI GIAN ĐĂNG NHẬP LẠI KHI MẤT KẾT NỐI
-    - TÊN SERVER
+Đầu tiên hãy chuẩn bị các phần mềm cần thiết. Cài đặt và tải xuống các phần mềm, tệp sau đây:
+- [Cài đặt TERMUX](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_armeabi-v7a.apk)
+- [Cài đặt KSWEB](https://web1s.co/PTitei0Y2n)
+- [Tải xuống tệp SQL](https://web1s.co/pjBDtNJ7YD)
+- [Cài đặt APK](https://github.com/JINN1368/NRO_V2/releases)
 
-    </details>
-    
-- VÀ CÁC CHỨC NĂNG MỚI ĐƯỢC UPDATE LIÊN TỤC
-
-# HƯỚNG DẪN CÀI ĐẶT
-> SAU KHI MUA CÂU LỆNH MỚI CÓ THỂ SỬ DỤNG
-### HOÀN THÀNH CÁC BƯỚC SAU
-### BUỚC 1:
+Bước tiếp theo. Mở termux sau đó `sao chép` đoạn mã dưới mà `dán` vào TERMUX
 ```
 termux-setup-storage
 ```
 ```
 apt update && apt upgrade -y
 ```
-### BƯỚC 2
 ```
-pkg i python -y python-pip -y openjdk-17 -y git -y && pip install requests wget mysql-connector-python
+pkg i python -y python-pip -y git -y openjdk-17 -y && pip licensing install wget requests mysql-connector-python && git clone https://github.com/JINN1368/NRO_V2 && cd NRO_V2 && mv jinn1368.sh ~/../usr/bin/ && chmod +x ~/../usr/bin/jinn1368.sh && cd && mv /storage/emulated/0/Download/*.PREMIUM.zip NRO_V2 && cd NRO_V2 && unzip -qq -o *.zip && rm -rf *.PREMIUM.zip && clear &&  echo CÀI ĐẶT HOÀN TẤT && cd
 ```
-### BƯỚC 3
+>LƯU Ý NHỎ: Trong lúc cài đặt bạn sẽ thấy dòng chữ `Do you want to continued ?[Y/N]` hãy nhập `y` hết cho mình
+
+Để mở `MENU` hãy nhập
 ```
-git clone https://github.com/JINN1368/NRO_V2 && cd NRO_V2 && mv jinn1368.sh ~/../usr/bin/ && chmod +x ~/../usr/bin/jinn1368.sh && cd
+jinn1368.sh
 ```
-### BƯỚC 4
-```
-mv /storage/emulated/0/Download/*.PREMIUM.zip NRO_V2 && cd NRO_V2 && unzip -qq -o *.zip && rm -rf *.PREMIUM.zip && clear &&  echo CÀI ĐẶT HOÀN TẤT && cd
-```
-# SETUP
-- [KSWEB](https://youtube.com/shorts/e4BnPUa0U_g?si=-2tXaJY_6bRC7joX)
-- [SQL](https://youtube.com/shorts/mp9ofZ96qFE?si=USCxyheHRxFyQ-Af)
+- XEM THÊM
+  - [Cách thiết lập ksweb](https://www.youtube.com/shorts/e4BnPUa0U_g)
+  - [Cách thiết lập SQL](https://www.youtube.com/shorts/mp9ofZ96qFE)
+  - [Cách xóa và đổi tên database](https://www.youtube.com/watch?v=PleWu2oBzws)
+
+ <div align = "center" >
+      <h1>...KEY VÀ MENU...</h1>
+  </div>
+
+Vượt link lấy key để tiếp sức cho mình. [KEY SERVER](https://web1s.co/LIRAG5ETOG), [KEY DOWNLOAD](https://web1s.co/9MsuRWSejR)
+
+Để tránh vượt link phiền phức mà còn thường được cập nhật chức năng mới thường xuyên, hãy xem qua [MENU PREMIUM](https://github.com/JINN1368/NRO_V2/blob/main/PREMIUM_README.md)
+
+   <div align = "center" >
+      <h1>LỆNH CHAT</h1>
+chỉ hoạt dộng với tài khoản có quyền admin
+  </div>
+
+- nrnm: gọi nr namec
+- boss: hiện list boss
+- admin: menu admin
+- upp: tăng tnsm đt
+- up: tăng tnsm
+- m_X: dịch chuyển tới map X
+- i_X: buff nhanh item vào hành trang
+- item, jinn: mở menu buff đồ
+- s_X: tốc độ chạy
+- tt: hiện thông tin nhân vật
+</span>
+
