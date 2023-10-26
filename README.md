@@ -87,3 +87,5 @@ chỉ hoạt dộng với tài khoản có quyền admin
 - s_X: tốc độ chạy
 - tt: hiện thông tin nhân vật
 </span>
+
+> Bản quyền thuộc về JINN©2023 | ĐƯỢC XÂY DỰNG VÀ PHÁT TRIỂN BỞI JINN
