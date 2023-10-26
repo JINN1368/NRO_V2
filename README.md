@@ -53,6 +53,11 @@ pkg i python -y python-pip -y git -y openjdk-17 -y && pip install wget requests 
 ```
 >LƯU Ý NHỎ: Trong lúc cài đặt bạn sẽ thấy dòng chữ `Do you want to continued ?[Y/N]` hãy nhập `y` hết cho mình
 
+Để mở `MENU` hãy nhập
+```
+jinn1368.sh
+```
+
 - XEM THÊM
   - [Cách thiết lập ksweb](https://www.youtube.com/shorts/e4BnPUa0U_g)
   - [Cách thiết lập SQL](https://www.youtube.com/shorts/mp9ofZ96qFE)
@@ -65,5 +70,20 @@ pkg i python -y python-pip -y git -y openjdk-17 -y && pip install wget requests 
 Vượt link lấy key để tiếp sức cho mình. [KEY SERVER](https://web1s.co/LIRAG5ETOG), [KEY DOWNLOAD](https://web1s.co/9MsuRWSejR)
 
 Để tránh vượt link phiền phức mà còn thường được cập nhật chức năng mới thường xuyên, hãy xem qua [MENU PREMIUM](https://github.com/JINN1368/NRO_V2/blob/main/PREMIUM_README.md)
-  
+
+   <div align = "center" >
+      <h1>LỆNH CHAT</h1>
+chỉ hoạt dộng với tài khoản có quyền admin
+  </div>
+
+- nrnm: gọi nr namec
+- boss: hiện list boss
+- admin: menu admin
+- upp: tăng tnsm đt
+- up: tăng tnsm
+- m_X: dịch chuyển tới map X
+- i_X: buff nhanh item vào hành trang
+- item, jinn: mở menu buff đồ
+- s_X: tốc độ chạy
+- tt: hiện thông tin nhân vật
 </span>
