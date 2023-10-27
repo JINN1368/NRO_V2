@@ -74,6 +74,12 @@ Vượt link lấy key để tiếp sức cho mình. [KEY SERVER](https://web1s.
    <div align = "center" >
       <h1>LỆNH CHAT</h1>
 chỉ hoạt dộng với tài khoản có quyền admin
+     
+> Tài khoản: jinn
+> 
+> Mật khẩu:
+> 1368
+
   </div>
 
 - nrnm: gọi nr namec
