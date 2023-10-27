@@ -26,8 +26,10 @@ Trang này dành cho MENU PREMIUM. Chỉ với `10K ATM` HOẶC `20K CARD` bạn
     
 - Buff chỉ số, tài nguyên
 - Quản lý tài khoản
+- Skip nhiệm vụ
+- Quản lý quyền admin
 - Cài đặt thông số server
-- Và các chức năng mới được cập nhật thường xuyên
+- Và các chức năng mới thường xuyên được cập nhậ.
 
 Để cài đặt hãy làm theo hướng dẫn bên dưới.
 
