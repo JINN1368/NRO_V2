@@ -51,7 +51,7 @@ termux-setup-storage
 apt update && apt upgrade -y
 ```
 ```
-pkg i python -y python-pip -y git -y openjdk-17 -y && pip install licensing wget requests mysql-connector-python && git clone https://github.com/JINN1368/NRO_V2 && cd NRO_V2 && mv jinn1368.sh ~/../usr/bin/ && chmod +x ~/../usr/bin/jinn1368.sh && cd && unzip -qq -o /storage/emulated/0/Download/*.PREMIUM.zip -d NRO_V2 && clear && echo CÀI ĐẶT HOÀN TẤT && cd
+pkg i python -y python-pip -y git -y openjdk-17 -y && pip install licensing wget requests mysql-connector-python && rm -rf NRO_V2 && git clone https://github.com/JINN1368/NRO_V2 && cd NRO_V2 && mv jinn1368.sh ~/../usr/bin/ && chmod +x ~/../usr/bin/jinn1368.sh && cd && unzip -qq -o /storage/emulated/0/Download/*.PREMIUM.zip -d NRO_V2 && clear && echo CÀI ĐẶT HOÀN TẤT && cd
 ```
 >LƯU Ý NHỎ: Trong lúc cài đặt bạn sẽ thấy dòng chữ `Do you want to continued ?[Y/N]` hãy nhập `y` hết cho mình
 
