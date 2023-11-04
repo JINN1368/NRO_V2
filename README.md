@@ -68,6 +68,7 @@ jinn1368.sh
   </div>
 
 Vượt link lấy key để tiếp sức cho mình. [KEY SERVER](https://web1s.co/LIRAG5ETOG), [KEY DOWNLOAD](https://web1s.co/9MsuRWSejR)
+Link dư phòng: [KEY SERVER](https://link4m.com/X1NAWk) - [KEY DOWNLOAD](https://link4m.com/B3AWsKX)
 
 Để tránh vượt link phiền phức mà còn thường được cập nhật chức năng mới thường xuyên, hãy xem qua [MENU PREMIUM](https://github.com/JINN1368/NRO_V2/blob/main/PREMIUM_README.md)
 
