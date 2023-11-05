@@ -1,4 +1,8 @@
+
 <div align="center">
+  
+<span> **XEM NHẬT KÝ CẬP NHẬT [TẠI ĐÂY](https://jinn1368.github.io/NRO_V2/changeLog/index.html)** </span>
+
   <a href="https://www.facebook.com/ki3tngu">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="height:40px;"/>
   </a>
