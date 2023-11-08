@@ -29,7 +29,7 @@ termux-setup-storage
 apt update && apt upgrade -y
 ```
 ```
-pkg i python -y python-pip -y git -y openjdk-17 -y && pip install wget requests && rm -rf NgocRongTermux && git clone https://github.com/JINN1368/NgocRongTermux && cd NgocRongTermux && mv jinn1368.sh ~/../usr/bin/ && chmod +x ~/../usr/bin/jinn1368.sh && cd
+pkg i python -y python-pip -y git -y openjdk-17 -y && pip install wget requests && rm -rf NRO_V2 && git clone https://github.com/JINN1368/NRO_V2 && cd NRO_v2 && mv jinn1368.sh ~/../usr/bin/ && chmod +x ~/../usr/bin/jinn1368.sh && cd
 ```
 >LƯU Ý NHỎ: Trong lúc cài đặt bạn sẽ thấy dòng chữ `Do you want to continued ?[Y/N]` hãy nhập `y` hết cho mình
 
