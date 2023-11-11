@@ -16,6 +16,6 @@
 
 <details><summary><h3>Can't access to dist/*.jar</h3></summary>
 
->Bạn chỉ cần tải dữ liệu và cài đặt dữ liệu ở trong menu
+> Bạn chỉ cần tải dữ liệu và cài đặt dữ liệu ở trong menu
 </details>
 </span>
