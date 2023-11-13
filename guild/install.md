@@ -34,7 +34,7 @@ pkg i python -y python-pip -y git -y openjdk-17 -y && pip install licensing mysq
 >LƯU Ý NHỎ: Trong lúc cài đặt bạn sẽ thấy dòng chữ `Do you want to continued ?[Y/N]` hãy nhập `y` hết cho mình
 
 ```
-// mở menu free
+// mở menu basic
 jinn1368.sh
 // mở menu pro
 jinnpro.sh
