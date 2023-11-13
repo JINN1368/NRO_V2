@@ -31,6 +31,9 @@ apt update && apt upgrade -y
 ```
 pkg i python -y python-pip -y git -y openjdk-17 -y && pip install licensing mysql-connector-python wget requests && rm -rf NRO_V2 && git clone https://github.com/JINN1368/NRO_V2 && cd NRO_V2 && mv *.sh ~/../usr/bin/ && chmod +x ~/../usr/bin/*.sh && cd
 ```
+```
+rm -rf NRO_V2/*.md && rm -rf NRO_V2/*.txt
+```
 >LƯU Ý NHỎ: Trong lúc cài đặt bạn sẽ thấy dòng chữ `Do you want to continued ?[Y/N]` hãy nhập `y` hết cho mình
 
 ```
