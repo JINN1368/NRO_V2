@@ -19,6 +19,7 @@
   <a href="https://www.buymeacoffee.com/KnD1368" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 40px;" ></a>
   
 <span> **XEM NHẬT KÝ CẬP NHẬT [TẠI ĐÂY](https://jinn1368.github.io/NRO_V2/changeLog/index.html)** </span>
+
 <span> **XEM CẬP NHẬT MENU [TẠI ĐÂY](https://jinn1368.github.io/NRO_V2/changeLog/index.html)** </span>
 
 <span> **[XEM CHI TIẾT PHIÊN BẢN TẠI ĐÂY](https://jinn1368.github.io/NRO_V2/index/index.html)** </span>
