@@ -577,3 +577,227 @@
 |2016| Cải trang Myuu| Cải trang |
 |2032| Cải trang| Cải trang |
 </details>
+
+<details><summary>Đậu thần</summary>
+
+|ID|TÊN|MÔ TẢ|
+|-|-|-|
+|13| Đậu thần cấp 1| Thức ăn phục hồi HP và KI|
+|60| Đậu thần cấp 2| Thức ăn phục hồi HP và KI|
+|61| Đậu thần cấp 3| Thức ăn phục hồi HP và KI|
+|62| Đậu thần cấp 4| Thức ăn phục hồi HP và KI|
+|63| Đậu thần cấp 5| Thức ăn phục hồi HP và KI|
+|64| Đậu thần cấp 6| Thức ăn phục hồi HP và KI|
+|65| Đậu thần cấp 7| Thức ăn phục hồi HP và KI|
+|352| Đậu thần cấp 8| Thức ăn phục hồi HP và KI|
+|523| Đậu thần cấp 9| Thức ăn phục hồi HP và KI|
+|595| Đậu thần cấp 10| Thức ăn phục hồi HP và KI
+</details>
+
+<details><summary>Ngọc Rồng</summary>
+
+|ID|TÊN|MÔ TẢ|
+|-|-|-|
+|14| Ngọc Rồng 1 sao| Thu thập để ước rồng thần|
+|15| Ngọc Rồng 2 sao| Thu thập để ước rồng thần|
+|16| Ngọc Rồng 3 sao| Thu thập để ước rồng thần|
+|17| Ngọc Rồng 4 sao| Thu thập để ước rồng thần|
+|18| Ngọc Rồng 5 sao| Thu thập để ước rồng thần|
+|19| Ngọc Rồng 6 sao| Thu thập để ước rồng thần|
+|20| Ngọc Rồng 7 sao| Thu thập để ước rồng thần|
+|702| Bí ngô 1 sao| Thu thập để ước Rồng Xương|
+|703| Bí ngô 2 sao| Thu thập để ước Rồng Xương|
+|704| Bí ngô 3 sao| Thu thập để ước Rồng Xương|
+|705| Bí ngô 4 sao| Thu thập để ước Rồng Xương|
+|706| Bí ngô 5 sao| Thu thập để ước Rồng Xương|
+|707| Bí ngô 6 sao| Thu thập để ước Rồng Xương|
+|708| Bí ngô 7 sao| Thu thập để ước Rồng Xương|
+|807| Ngọc đen 1 sao| Thu thập để ước Rồng Xương |tự động xóa khi kết thúc sự kiện|
+|808| Ngọc đen 2 sao| Thu thập để ước Rồng Xương |tự động xóa khi kết thúc sự kiện|
+|809| Ngọc đen 3 sao| Thu thập để ước Rồng Xương |tự động xóa khi kết thúc sự kiện|
+|810| Ngọc đen 4 sao| Thu thập để ước Rồng Xương |tự động xóa khi kết thúc sự kiện|
+|811| Ngọc đen 5 sao| Thu thập để ước Rồng Xương |tự động xóa khi kết thúc sự kiện|
+|812| Ngọc đen 6 sao| Thu thập để ước Rồng Xương |tự động xóa khi kết thúc sự kiện|
+|813| Ngọc đen 7 sao| Thu thập để ước Rồng Xương |tự động xóa khi kết thúc sự kiện|
+|925| Ngọc Rồng Băng 1 Sao| Thu thập để ước Rồng Băng|
+|926| Ngọc Rồng Băng 2 Sao| Thu thập để ước Rồng Băng|
+|927| Ngọc Rồng Băng 3 Sao| Thu thập để ước Rồng Băng|
+|928| Ngọc Rồng Băng 4 Sao| Thu thập để ước Rồng Băng|
+|929| Ngọc Rồng Băng 5 Sao| Thu thập để ước Rồng Băng|
+|930| Ngọc Rồng Băng 6 Sao| Thu thập để ước Rồng Băng|
+|931| Ngọc Rồng Băng 7 Sao| Thu thập để ước Rồng Băng|
+|1185| Ngọc Rồng 1 sao VIP| Ép sao pha lê +2% Chí mạng|
+|1186| Ngọc Rồng 2 sao VIP| Ép sao pha lê|
+|1187| Ngọc Rồng 3 sao VIP| Ép sao pha lê +6% Sức đánh|
+|1188| Ngọc Rồng 4 sao VIP| Ép sao pha lê|
+|1189| Ngọc Rồng 5 sao VIP| Ép sao pha lê|
+|1190| Ngọc Rồng 6 sao VIP| Ép sao pha lê +10% KI|
+|1191| Ngọc Rồng 7 sao VIP| Ép sao pha lê +10% HP|
+|353| Ngọc Rồng Namek 1 Sao| Tập họp đủ 7 viên để ước|
+|354| Ngọc Rồng Namek 2 Sao| Tập họp đủ 7 viên để ước|
+|355| Ngọc Rồng Namek 3 Sao| Tập họp đủ 7 viên để ước|
+|356| Ngọc Rồng Namek 4 Sao| Tập họp đủ 7 viên để ước|
+|357| Ngọc Rồng Namek 5 Sao| Tập họp đủ 7 viên để ước|
+|358| Ngọc Rồng Namek 6 Sao| Tập họp đủ 7 viên để ước|
+|359| Ngọc Rồng Namek 7 Sao| Tập họp đủ 7 viên để ước|
+|360| Ngọc Rồng Namek| Tập họp đủ 7 viên để ước|
+|362| Hóa thạch Ngọc Rồng| Hóa thạch Ngọc Rồng|
+|372| Ngọc rồng 1 sao đen| +15% sức đánh cho toàn bang|
+|373| Ngọc rồng 2 sao đen| +20% HP và KI tối đa cho toàn bang|
+|374| Ngọc rồng 3 sao đen| Mỗi giờ 10 hạt đậu thần cấp 8 cho toàn bang|
+|375| Ngọc rồng 4 sao đen| Mỗi giờ 1 bùa 1h ngẫu nhiên cho toàn bang|
+|376| Ngọc rồng 5 sao đen| Mỗi giờ 3 ngọc nâng cấp ngẫu nhiên cho toàn bang|
+|377| Ngọc rồng 6 sao đen| Mỗi giờ 200.000 vàng cho toàn bang|
+|378| Ngọc rồng 7 sao đen| Mỗi giờ 2 ngọc cho toàn bang|
+</details>
+
+<details><summary>Bùa</summary>
+
+|ID|TÊN|MÔ TẢ|
+|-|-|-|
+|213| Bùa Trí Tuệ| Tiềm năng và sức mạnh của sẽ nhận được gấp đôi trong 1 khoảng thời gian| kể từ lúc mua|
+|214| Bùa Mạnh Mẽ| Cú đấm của sẽ mạnh hơn. Tăng 150% sức đánh hiện có khi đánh Quái trong 1 khoảng thời gian| kể từ lúc mua|
+|215| Bùa Da Trâu| Tăng sức chịu đòn cho bạn. Khi bị quái đánh| máu sẽ mất ít hơn| chỉ còn 50% bình thường. Có tác dụng trong 1 khoảng thời gian kể từ lúc mua|
+|216| Bùa Oai Hùng| Bạn sẽ oai vệ hơn. Quái Thủ Lĩnh sẽ sợ và đánh yếu đi| y như con quái thường. Có tác dụng trong 1 khoảng thời gian kể từ lúc mua|
+|217| Bùa Bất Tử| Bạn sẽ không bao giờ bị quái đánh chết. Thay vào đó chỉ còn 1 máu. Tuy nhiên phải bơm máu mới có thể đánh lại. Có tác dụng trong 1 khoảng thời gian kể từ lúc mua.|
+|218| Bùa Dẻo Dai| Thể lực của sẽ không bao giờ giảm khi bùa này có tác dụng. Có tác dụng trong 1 khoảng thời gian| kể từ lúc mua|
+|219| Bùa Thu Hút| Vật phẩm đánh văng ra nếu là của bạn| nó sẽ tự bay vào người. Bạn sẽ không phải nhặt bằng tay. Có tác dụng trong 1 khoảng thời gian| kể từ lúc mua|
+|522| Bùa Đệ Tử| Đệ tử sẽ tự đánh quái không cần sư phụ| giảm 50% sát thương từ quái| tăng 100% sức mạnh khi đánh quái|
+|671| Bùa Trí Tuệ x3| Tiềm năng và sức mạnh của sẽ nhận được gấp ba trong 1 khoảng thời gian| kể từ lúc mua|
+|672| Bùa Trí Tuệ x4| Tiềm năng và sức mạnh của sẽ nhận được gấp bốn trong 1 khoảng thời gian| kể từ lúc mua|
+|797| Bùa Trí Tuệ| Vật phẩm bang hội|
+|798| Bùa Mạnh Mẽ| Vật phẩm bang hội|
+|799| Bùa Da Trâu| Vật phẩm bang hội|
+</details>
+
+
+<details><summary>Vàng, Ngọc</summary>
+
+|ID|TÊN|MÔ TẢ|
+|-|-|-|
+|76| Vàng| |
+|77| Ngọc | |
+|188| Vàng| |
+|189| Vàng| |
+|190| Vàng| |
+</details>
+
+<details><summary>Những Thứ Khác</summary>
+
+|ID|TÊN|MÔ TẢ|
+|-|-|-|
+|73| Đùi gà| Cần tìm đủ 10 và mang về cho ông Gohan|
+|75| Đùi heo Xayda| Cần tìm đủ 10 và mang về cho ông Paragus|
+|85| Truyện tranh| Vật phẩm nhiệm vụ |
+|78| Đứa bé| Đứa bé trong phi thuyền tennis|
+|467| Lồng đèn Ông Sao| Vật phẩm sự kiện|
+|468| Lồng đèn Cá chép| Vật phẩm sự kiện|
+|469| Lồng đèn Kéo Quân| Vật phẩm sự kiện|
+|470| Lồng đèn Ông trăng| Vật phẩm sự kiện|
+|471| Lồng đèn Hội An| Vật phẩm sự kiện|
+|740| Lưỡi hái Thần Chết| Vật phẩm sự kiện|
+|741| Cánh dơi Dracula| Vật phẩm sự kiện|
+|745| Bông tuyết| Tạo khí lạnh gây ảnh hưởng xung quanh|
+|766| Cờ xám| Vật phẩm bang hội|
+|767| Cờ đen| Vật phẩm bang hội|
+|768| Cờ xanh lá| Vật phẩm bang hội|
+|769| Cờ xanh biển| Vật phẩm bang hội|
+|770| Cờ hồng| Vật phẩm bang hội|
+|771| Cờ cam| Vật phẩm bang hội|
+|772| Cờ vàng| Vật phẩm bang hội|
+|773| Cờ tím| Vật phẩm bang hội|
+|774| Cờ xanh dạ| Vật phẩm bang hội|
+|775| Cờ đỏ| Vật phẩm bang hội|
+|776| Khăn xanh lá| Vật phẩm bang hội|
+|777| Khăn xanh dương| Vật phẩm bang hội|
+|778| Khăn vàng| Vật phẩm bang hội|
+|779| Khăn tím| Vật phẩm bang hội|
+|780| Khăn nâu| Vật phẩm bang hội|
+|781| Khăn xám| Vật phẩm bang hội|
+|782| Khăn đỏ| Vật phẩm bang hội|
+|783| Khăn hồng| Vật phẩm bang hội|
+|784| Khăn xanh dạ| Vật phẩm bang hội|
+|785| Ba lô| Vật phẩm bang hội|
+|786| Đao| Vật phẩm bang hội|
+|787| Gậy| Vật phẩm bang hội|
+|788| Mai rùa| Vật phẩm bang hội|
+|789| Giỏ bơ| Vật phẩm bang hội|
+|790| Giỏ dưa hấu| Vật phẩm bang hội|
+|791| Giỏ củ cải trắng| Vật phẩm bang hội|
+|792| Giỏ cà rốt| Vật phẩm bang hội|
+|793| Giỏ chuối| Vật phẩm bang hội|
+|794| Gậy phép| Vật phẩm bang hội|
+|800| Lồng đèn Cô Vy| Vật phẩm sự kiện|
+|801| Lồng đèn Con tàu| Vật phẩm sự kiện|
+|802| Lồng đèn Con gà| Vật phẩm sự kiện|
+|803| Lồng đèn Con bướm| Vật phẩm sự kiện|
+|804| Lồng đèn Đôrêmon| Vật phẩm sự kiện|
+|805| Nón thiên thần| Vật phẩm sự kiện|
+|814| Ma trơi| Vật phẩm sự kiện|
+|815| Hồn ma Goku| Vật phẩm sự kiện|
+|816| Hồn ma Ca đíc| Vật phẩm sự kiện|
+|817| Hồn ma Pôcôlô| Vật phẩm sự kiện|
+|822| Cây thông| Vật phẩm sự kiện|
+|852| Cây trúc| Vật phẩm sự kiện|
+|865| Kiếm Z| Vật phẩm sự kiện|
+|954| Bó Hoa Hồng| Vật phẩm sự kiện|
+|955| Bó Hoa Vàng| Vật phẩm sự kiện|
+|966| Trái bóng| Vật phẩm sự kiện|
+|982| Cúp vàng| Vật phẩm sự kiện|
+|983| Cờ cổ động| Vật phẩm sự kiện|
+|994| Vỏ ốc| Vật phẩm sự kiện|
+|995| Cánh Tử thần| Vật phẩm sự kiện|
+|996| Cá heo| Vật phẩm sự kiện|
+|997| Con diều| Vật phẩm sự kiện|
+|998| Diều rồng| Giúp tăng chỉ số bản thân|
+|999| Mèo mun| Giúp tăng chỉ số bản thân|
+|1000| Xiên cá| Giúp tăng chỉ số bản thân|
+|1001| Phóng lợn| Giúp tăng chỉ số bản thân|
+|1007| Ván lướt sóng| Vật phẩm sự kiện|
+|1013| Kiếm ánh sáng| Vật phẩm sự kiện|
+|1021| Búa Mjolnir| Vật phẩm sự kiện|
+|1022| Búa Stormbreaker| Vật phẩm sự kiện|
+|1023| Quạt ba tiêu| Vật phẩm sự kiện|
+|1024| Gậy như ý| Vật phẩm sự kiện|
+|1025| Bồ cào| Vật phẩm sự kiện|
+|1026| Nguyệt nha sản| Vật phẩm sự kiện|
+|1027| Quyền trượng| Vật phẩm sự kiện|
+|1028| Dao răng cưa| Vật phẩm sự kiện|
+|1030| Cờ Hoa đăng| Vật phẩm sự kiện|
+|1031| Cờ Hoa sen| Vật phẩm sự kiện|
+|1047| Lồng đèn lon| Vật phẩm sự kiện|
+|1131| Danh hiệu TOP 1 NẠP| Độc nhất vô nhị|
+|1155| Cánh Bướm| Cánh đeo tăng chỉ số|
+|1156| Cánh Đỏ| Cánh đeo tăng chỉ số|
+|1157| Cánh Xám| Cánh đeo tăng chỉ số|
+|1158| Cánh Trắng| Cánh đeo tăng chỉ số|
+|1159| Cánh Xanh| Cánh đeo tăng chỉ số|
+|1160| Cánh Đen| Cánh đeo tăng chỉ số|
+|1161| Cánh Rồng| Cánh đeo tăng chỉ số|
+|1162| Cánh Robot| Cánh đeo tăng chỉ số|
+|1163| Cánh Rơm| Cánh đeo tăng chỉ số|
+|1164| Kiếm Ánh Sáng| Cánh đeo tăng chỉ số|
+|1166| Trùm JINN| Danh hiệu|
+|1182| Găng Thanos| Cánh đeo tăng chỉ số|
+|1183| Kiếm Thanos| Cánh đeo tăng chỉ số|
+|1193| Hào quang Goku| Hào quang VIP|
+|1194| Hào quang Jiren| Hào quang VIP|
+|1202| Danh hiệu TOP 2 NẠP| Độc nhất vô nhị|
+|1203| Danh hiệu TOP 3 NẠP| Độc nhất vô nhị|
+|1209| Hào quang Gold| Hào quang Gold|
+|1210| Bất phục| Bất phục|
+|1211| Top 1 Mùa 2| Top 1|
+|1212| Top 2 Mùa 2| Top 2|
+|1213| Top 3 Mùa 2| Top 3|
+|1217| Hào quang VIP| VIP|
+|1228| Gậy phát sáng| Đeo vô sáng lung linh|
+|1231| Kiếm vàng lấp lánh| Đeo vô kiếm thần vàng|
+|1239| Danh hiệu Đại Gia| Danh hiệu có thể nâng cấp|
+|1240| Danh hiệu Fan Cứng| Danh hiệu có thể nâng cấp|
+|1241| Danh hiệu Trùm Cuối| Danh hiệu có thể nâng cấp|
+|1242| Danh hiệu Cao Thủ| Danh hiệu có thể nâng cấp|
+|1243| Danh hiệu TopServer| Danh hiệu có thể nâng cấp|
+|2043| Trùm Ookaza| Danh hiệu|
+|2044| FAN CỨNG| Danh Hiệu |
+|2045| TRÙM HARUNA| Danh Hiệu |
+</details>
