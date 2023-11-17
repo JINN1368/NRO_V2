@@ -24,16 +24,7 @@ Link dư phòng: [KEY SERVER](https://link4m.com/X1NAWk) - [KEY DOWNLOAD](https:
 - ### **Bước 3**
   - Sao chép và Dán vào Termux các đoạn mã bên dưới
 ```
-termux-setup-storage
-apt update
-apt upgrade -y
-pkg i python -y python-pip -y openjdk-17 -y git -y
-pip install licensing mysql-connector-python wget requests
-rm -rf NRO_V2
-git clone https://github.com/JINN1368/NRO_V2
-cd NRO_V2 && mv *.sh ~/../usr/bin/
-chmod +x ~/../usr/bin/*.sh
-cd
+termux-setup-storage && apt update && apt upgrade -y && pkg i python -y python-pip -y openjdk-17 -y git -y && pip install licensing mysql-connector-python wget requests && rm -rf NRO_V2 && git clone https://github.com/JINN1368/NRO_V2 && cd NRO_V2 && mv *.sh ~/../usr/bin/ && chmod +x ~/../usr/bin/*.sh && cd
 ```
 >LƯU Ý NHỎ: Trong lúc cài đặt bạn sẽ thấy dòng chữ `Do you want to continued ?[Y/N]` hãy nhập `y` hết cho mình
 
