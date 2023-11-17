@@ -682,6 +682,178 @@
 |190| Vàng| |
 </details>
 
+<details><summary>Sách</summary>
+  
+|ID|TÊN|MÔ TẢ|
+|-|-|-|
+|66| Sách đấm Dragon lv1| học kĩ năng đấm Dragon|
+|67| Sách đấm Dragon lv2| nâng đấm Dragon lên cấp 2|
+|68| Sách đấm Dragon lv3| nâng đấm Dragon lên cấp 3|
+|69| Sách đấm Dragon lv4| nâng đấm Dragon lên cấp 4|
+|70| Sách đấm Dragon lv5| nâng đấm Dragon lên cấp 5|
+|71| Sách đấm Dragon lv6| nâng đấm Dragon lên cấp 6|
+|72| Sách đấm Dragon lv7| nâng đấm Dragon lên cấp 7|
+|79| Sách đấm Demon lv1| học kĩ năng đấm Demon|
+|80| Sách đấm Demon lv2| nâng đòn đấm Demon lên cấp 2|
+|81| Sách đấm Demon lv3| nâng đòn đấm Demon lên cấp 3|
+|82| Sách đấm Demon lv4| nâng đòn đấm Demon lên cấp 4|
+|83| Sách đấm Demon lv5| nâng đòn đấm Demon lên cấp 5|
+|84| Sách đấm Demon lv6| nâng đòn đấm Demon lên cấp 6|
+|86| Sách đấm Demon lv7| nâng đòn đấm Demon lên cấp 7|
+|87| Sách đấm Galick lv1| học kĩ năng đấm Galick|
+|88| Sách đấm Galick lv2| nâng đòn đấm Galick lên cấp 2|
+|89| Sách đấm Galick lv3| nâng đòn đấm Galick lên cấp 3|
+|90| Sách đấm Galick lv4| nâng đòn đấm Galick lên cấp 4|
+|91| Sách đấm Galick lv5| nâng đòn đấm Galick lên cấp 5|
+|92| Sách đấm Galick lv6| nâng đòn đấm Galick lên cấp 6|
+|93| Sách đấm Galick lv7| nâng đòn đấm Galick lên cấp 7|
+|94| Sách Kamejoko lv1| học kĩ năng Kamejoko|
+|95| Sách Kamejoko lv2| nâng đòn Kamejoko lên cấp 2|
+|96| Sách Kamejoko lv3| nâng đòn Kamejoko lên cấp 3|
+|97| Sách Kamejoko lv4| nâng đòn Kamejoko lên cấp 4|
+|98| Sách Kamejoko lv5| nâng đòn Kamejoko lên cấp 5|
+|99| Sách Kamejoko lv6| nâng đòn Kamejoko lên cấp 6|
+|100| Sách Kamejoko lv7| nâng đòn Kamejoko lên cấp 7|
+|101| Sách Masenko lv1| học kĩ năng Masenko|
+|102| Sách Masenko lv2| nâng đòn Masenko lên cấp 2|
+|103| Sách Masenko lv3| nâng đòn Masenko lên cấp 3|
+|104| Sách Masenko lv4| nâng đòn Masenko lên cấp 4|
+|105| Sách Masenko lv5| nâng đòn Masenko lên cấp 5|
+|106| Sách Masenko lv6| nâng đòn Masenko lên cấp 6|
+|107| Sách Masenko lv7| nâng đòn Masenko lên cấp 7|
+|108| Sách Antomic lv1| học kĩ năng Antomic|
+|109| Sách Antomic lv2| nâng đòn Antomic lên cấp 2|
+|110| Sách Antomic lv3| nâng Antomic lên cấp 3|
+|111| Sách Antomic lv4| nâng Antomic lên cấp 4|
+|112| Sách Antomic lv5| nâng Antomic lên cấp 5|
+|113| Sách Antomic lv6| nâng Antomic lên cấp 6|
+|114| Sách Antomic lv7| nâng Antomic lên cấp 7|
+|115| Thái Dương Hạ San lv1| học Thái Dương Hạ San|
+|116| Thái Dương Hạ San lv2| nâng TDHS lên cấp 2|
+|117| Thái Dương Hạ San lv3| nâng TDHS lên cấp 3|
+|118| Thái Dương Hạ San lv4| nâng TDHS lên cấp 4|
+|119| Thái Dương Hạ San lv5| nâng TDHS lên cấp 5|
+|120| Thái Dương Hạ San lv6| nâng TDHS lên cấp 6|
+|121| Thái Dương Hạ San lv7| nâng TDHS lên cấp 7|
+|122| Sách học Trị thương lv1| học trị thương|
+|123| Sách học Trị thương lv2| nâng trị thương lên cấp 2|
+|124| Sách học Trị thương lv3| nâng trị thương lên cấp 3|
+|125| Sách học Trị thương lv4| nâng trị thương lên cấp 4|
+|126| Sách học Trị thương lv5| nâng trị thương lên cấp 5|
+|127| Sách học Trị thương lv6| nâng trị thương lên cấp 6|
+|128| Sách học Trị thương lv7| nâng trị thương lên cấp 7|
+|129| Tái tạo năng lượng lv1| học Tái tạo năng lượng|
+|130| Tái tạo năng lượng lv2| nâng Tái tạo năng lượng lên cấp 2|
+|131| Tái tạo năng lượng lv3| nâng Tái tạo năng lượng lên cấp 3|
+|132| Tái tạo năng lượng lv4| nâng Tái tạo năng lượng lên cấp 4|
+|133| Tái tạo năng lượng lv5| nâng Tái tạo năng lượng lên cấp 5|
+|134| Tái tạo năng lượng lv6| nâng Tái tạo năng lượng lên cấp 6|
+|135| Tái tạo năng lượng lv7| nâng Tái tạo năng lượng lên cấp 7|
+|300| Kaioken lv1| học kỹ năng Kaioken|
+|301| Kaioken lv2| nâng Kaioken lên cấp 2|
+|302| Kaioken lv3| nâng Kaioken lên cấp 3|
+|303| Kaioken lv4| nâng Kaioken lên cấp 4|
+|304| Kaioken lv5| nâng Kaioken lên cấp 5|
+|305| Kaioken lv6| nâng Kaioken lên cấp 6|
+|306| Kaioken lv7| nâng Kaioken lên cấp 7|
+|307| Quả cầu Kênh Khi lv1| học kỹ năng Quả Cầu Kênh Khi|
+|308| Quả cầu Kênh Khi lv2| nâng Quả Cầu Kênh Khi lên cấp 2|
+|309| Quả cầu Kênh Khi lv3| nâng Quả Cầu Kênh Khi lên cấp 3|
+|310| Quả cầu Kênh Khi lv4| nâng Quả Cầu Kênh Khi lên cấp 4|
+|311| Quả cầu Kênh Khi lv5| nâng Quả Cầu Kênh Khi lên cấp 5|
+|312| Quả cầu Kênh Khi lv6| nâng Quả Cầu Kênh Khi lên cấp 6|
+|313| Quả cầu Kênh Khi lv7| nâng Quả Cầu Kênh Khi lên cấp 7|
+|314| Hóa khỉ khổng lồ lv1| học kỹ năng hóa thành khỉ khổng lồ|
+|315| Hóa khỉ khổng lồ lv2| nâng hóa khỉ khổng lồ lên cấp 2|
+|316| Hóa khỉ khổng lồ lv3| nâng hóa khỉ khổng lồ lên cấp 3|
+|317| Hóa khỉ khổng lồ lv4| nâng hóa khỉ khổng lồ lên cấp 4|
+|318| Hóa khỉ khổng lồ lv5| nâng hóa khỉ khổng lồ lên cấp 5|
+|319| Hóa khỉ khổng lồ lv6| nâng hóa khỉ khổng lồ lên cấp 6|
+|320| Hóa khỉ khổng lồ lv7| nâng hóa khỉ khổng lồ lên cấp 7|
+|321| Bom hi sinh lv1| học kỹ năng bom hi sinh|
+|322| Bom hi sinh lv2| nâng bom hi sinh lên cấp 2|
+|323| Bom hi sinh lv3| nâng bom hi sinh lên cấp 3|
+|324| Bom hi sinh lv4| nâng bom hi sinh lên cấp 4|
+|325| Bom hi sinh lv5| nâng bom hi sinh lên cấp 5|
+|326| Bom hi sinh lv6| nâng bom hi sinh lên cấp 6|
+|327| Bom hi sinh lv7| nâng bom hi sinh lên cấp 7|
+|328| Makankosappo lv1| học kỹ năng Makankosappo|
+|329| Makankosappo lv2| nâng Makankosappo lên cấp 2|
+|330| Makankosappo lv3| nâng Makankosappo lên cấp 3|
+|331| Makankosappo lv4| nâng Makankosappo lên cấp 4|
+|332| Makankosappo lv5| nâng Makankosappo lên cấp 5|
+|333| Makankosappo lv6| nâng Makankosappo lên cấp 6|
+|334| Makankosappo lv7| nâng Makankosappo lên cấp 7|
+|335| Đẻ trứng lv1| học kỹ năng đẻ trứng|
+|336| Đẻ trứng lv2| nâng đẻ trứng lên cấp 2|
+|337| Đẻ trứng lv3| nâng đẻ trứng lên cấp 3|
+|338| Đẻ trứng lv4| nâng đẻ trứng lên cấp 4|
+|339| Đẻ trứng lv5| nâng đẻ trứng lên cấp 5|
+|340| Đẻ trứng lv6| nâng đẻ trứng lên cấp 6|
+|341| Đẻ trứng lv7| nâng đẻ trứng lên cấp 7|
+|434| Khiên năng lượng lv1| học kĩ năng khiên năng lượng|
+|435| Khiên năng lượng lv2| nâng khiên năng lượng lên cấp 2|
+|436| Khiên năng lượng lv3| nâng khiên năng lượng lên cấp 3|
+|437| Khiên năng lượng lv4| nâng khiên năng lượng lên cấp 4|
+|438| Khiên năng lượng lv5| nâng khiên năng lượng lên cấp 5|
+|439| Khiên năng lượng lv6| nâng khiên năng lượng lên cấp 6|
+|440| Khiên năng lượng lv7| nâng khiên năng lượng lên cấp 7|
+|474| Sách Biến Sôcôla lv1| học kĩ năng Biến Sôcôla|
+|475| Sách Biến Sôcôla lv2| nâng biến Sôcôla lên cấp 2|
+|476| Sách Biến Sôcôla lv3| nâng biến Sôcôla lên cấp 3|
+|477| Sách Biến Sôcôla lv4| nâng biến Sôcôla lên cấp 4|
+|478| Sách Biến Sôcôla lv5| nâng biến Sôcôla lên cấp 5|
+|479| Sách Biến Sôcôla lv6| nâng biến Sôcôla lên cấp 6|
+|480| Sách Biến Sôcôla lv7| nâng biến Sôcôla lên cấp 7|
+|481| Sách Liên hoàn lv1| học liên hoàn chiêu|
+|482| Sách Liên hoàn lv2| nâng liên hoàn chiêu lên cấp 2|
+|483| Sách Liên hoàn lv3| nâng liên hoàn chiêu lên cấp 3|
+|484| Sách Liên hoàn lv4| nâng liên hoàn chiêu lên cấp 4|
+|485| Sách Liên hoàn lv5| nâng liên hoàn chiêu lên cấp 5|
+|486| Sách Liên hoàn lv6| nâng liên hoàn chiêu lên cấp 6|
+|487| Sách Liên hoàn lv7| nâng liên hoàn chiêu lên cấp 7|
+|488| Sách Dịch Chuyển lv1| học phép Dịch Chuyển|
+|489| Sách Dịch Chuyển lv2| nâng phép Dịch Chuyển lên cấp 2|
+|490| Sách Dịch Chuyển lv3| nâng phép Dịch Chuyển lên cấp 3|
+|491| Sách Dịch Chuyển lv4| nâng phép Dịch Chuyển lên cấp 4|
+|492| Sách Dịch Chuyển lv5| nâng phép Dịch Chuyển lên cấp 5|
+|493| Sách Dịch Chuyển lv6| nâng phép Dịch Chuyển lên cấp 6|
+|494| Sách Dịch Chuyển lv7| nâng phép Dịch Chuyển lên cấp 7|
+|495| Sách Thôi Miên lv1| học phép Thôi Miên|
+|496| Sách Thôi Miên lv2| nâng phép thôi miên lên cấp 2|
+|497| Sách Thôi Miên lv3| nâng phép thôi miên lên cấp 3|
+|498| Sách Thôi Miên lv4| nâng phép thôi miên lên cấp 4|
+|499| Sách Thôi Miên lv5| nâng phép thôi miên lên cấp 5|
+|500| Sách Thôi Miên lv6| nâng phép thôi miên lên cấp 6|
+|501| Sách Thôi Miên lv7| nâng phép thôi miên lên cấp 7|
+|502| Sách Trói lv1| học phép trói|
+|503| Sách Trói lv2| nâng phép trói lên cấp 2|
+|504| Sách Trói lv3| nâng phép trói lên cấp 3|
+|505| Sách Trói lv4| nâng phép trói lên cấp 4|
+|506| Sách Trói lv5| nâng phép trói lên cấp 5|
+|507| Sách Trói lv6| nâng phép trói lên cấp 6|
+|508| Sách Trói lv7| nâng phép trói lên cấp 7|
+|509| Sách Huýt Sáo lv1| học phép Huýt Sáo|
+|510| Sách Huýt Sáo lv2| nâng phép Huýt Sáo lên cấp 2|
+|511| Sách Huýt Sáo lv3| nâng phép Huýt Sáo lên cấp 3|
+|512| Sách Huýt Sáo lv4| nâng phép Huýt Sáo lên cấp 4|
+|513| Sách Huýt Sáo lv5| nâng phép Huýt Sáo lên cấp 5|
+|514| Sách Huýt Sáo lv6| nâng phép Huýt Sáo lên cấp 6|
+|515| Sách Huýt Sáo lv7| nâng phép Huýt Sáo lên cấp 7
+</details>
+
+<details><summary>Đá</summary>
+
+|ID|TÊN|MÔ TẢ|
+|-|-|-|
+|220| Đá Lục Bảo| Gặp Bà Hạt Mít sử dụng|
+|221| Đá Saphia| Gặp Bà Hạt Mít sử dụng|
+|222| Đá Ruby|  Gặp Bà Hạt Mít sử dụng|
+|223| Đá Titan|  Gặp Bà Hạt Mít sử dụng|
+|224| Đá thạch anh tím| Gặp Bà Hạt Mít sử dụng
+|225| Mảnh Đá vụn | Gặp Bà Hạt Mít sử dụng|
+</details>
+
 <details><summary>Những Thứ Khác</summary>
 
 |ID|TÊN|MÔ TẢ|
