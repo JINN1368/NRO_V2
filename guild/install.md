@@ -1,7 +1,6 @@
 <span>
   
-Vượt link lấy key để tiếp sức cho mình. [KEY SERVER](https://web1s.co/LIRAG5ETOG), [KEY DOWNLOAD](https://web1s.co/9MsuRWSejR)<br/>
-Link dư phòng: [KEY SERVER](https://link4m.com/X1NAWk) - [KEY DOWNLOAD](https://link4m.com/B3AWsKX)
+Vượt link lấy key để tiếp sức cho mình. [KEY SERVER](https://web1s.pro/WfoWcAw00Z), [KEY DOWNLOAD](https://web1s.pro/Awod3lNp6Y)<br/>
   <div align="center">
     <h1>
       Hướng Dẫn Cài Đặt
