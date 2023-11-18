@@ -13,8 +13,8 @@ Link dư phòng: [KEY SERVER](https://link4m.com/X1NAWk) - [KEY DOWNLOAD](https:
   - Hãy tải xuống và cài đặt các ứng dụng và các tệp tin bên dưới
     - [Cài đặt TERMUX](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_armeabi-v7a.apk)
     - [TERMUX dành cho giả lập](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_x86.apk)
-    - [Cài đặt KSWEB](https://web1s.co/PTitei0Y2n)
-    - [Tải xuống tệp SQL](https://web1s.co/pjBDtNJ7YD)
+    - [Cài đặt KSWEB](https://www.mediafire.com/file/6bvlddcp54mc9nf/KSWeb_v3.988_gocmod.com.apk/file)
+    - [Tải xuống tệp SQL](https://web1s.pro/dvNCXOKICW)
     - [Cài đặt APK](https://github.com/JINN1368/NRO_V2/releases)
 - ###  **Bước 2**
   - [Cách thiết lập ksweb](https://www.youtube.com/shorts/e4BnPUa0U_g)
